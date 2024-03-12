@@ -2,7 +2,7 @@
 
 ## Installation
 
-#### [Main Reader](/dist/GBF auto poker.user.js?raw=1)
+#### [Main Reader](/GBF_auto_poker.user.js?raw=1)
 
 
 a gbf poker script
